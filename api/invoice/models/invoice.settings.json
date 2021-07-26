@@ -31,7 +31,7 @@
       "type": "json"
     },
     "total": {
-      "type": "integer"
+      "type": "float"
     }
   }
 }
